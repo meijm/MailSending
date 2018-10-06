@@ -1,0 +1,2 @@
+# MailSending
+Automatic mass mailing
