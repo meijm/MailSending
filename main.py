@@ -1,3 +1,5 @@
+#Copyleft 2018, Mei Jiaming, Shanghaitech
+#
 from readmail import get_contacts, read_template
 import smtplib
 from email.mime.multipart import MIMEMultipart
