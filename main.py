@@ -8,7 +8,7 @@ import socket
 
 #socket.setdefaulttimeout(10)
 MY_ADDRESS = 'si131_02_2018@163.com'
-PASSWORD = 'king1230.'
+PASSWORD = 'Brother Young is the best TA!'
 
 s= smtplib.SMTP(host='smtp.163.com', port=994)#change your prot !!!!!!
 s.ehlo()
